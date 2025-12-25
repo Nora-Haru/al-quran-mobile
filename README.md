@@ -8,7 +8,7 @@ A modern Al-Qur'an application built with **Flutter**, designed to provide a sea
 
 ## 📸 Screenshots
 
-| Home Page (Light) | Detail Surah | Audio Player |
+| Home Page (Dark) | Detail Surah | Audio Player |
 |:-----------------:|:------------:|:------------:|
 | ![Home](assets/screenshots/home.png) | ![Detail](assets/screenshots/detail.png) | ![Audio](assets/screenshots/audio.png) |
 ## ✨ Features
