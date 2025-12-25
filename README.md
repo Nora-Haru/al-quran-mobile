@@ -1,4 +1,3 @@
-```markdown
 # 📖 Al-Qur'an Mobile
 
 A modern Al-Qur'an application built with **Flutter**, designed to provide a seamless reading and listening experience. This project implements a **Clean Architecture** (Layer-First) approach to ensure scalability and maintainability.
