@@ -1,4 +1,3 @@
-```markdown
 # 📖 Al-Qur'an Mobile
 
 A modern Al-Qur'an application built with **Flutter**, designed to provide a seamless reading and listening experience. This project implements a **Clean Architecture** (Layer-First) approach to ensure scalability and maintainability.
@@ -9,7 +8,7 @@ A modern Al-Qur'an application built with **Flutter**, designed to provide a sea
 
 ## 📸 Screenshots
 
-| Home Page (Light) | Detail Surah | Audio Player |
+| Home Page (Dark) | Detail Surah | Audio Player |
 |:-----------------:|:------------:|:------------:|
 | ![Home](assets/screenshots/home.png) | ![Detail](assets/screenshots/detail.png) | ![Audio](assets/screenshots/audio.png) |
 ## ✨ Features
@@ -74,7 +73,7 @@ Follow these steps to run the project locally.
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/Nora_Haru/al-quran-mobile.git](https://github.com/Nora_Haru/al-quran-mobile.git)
+git clone ([https://github.com/Nora_Haru/al-quran-mobile.git](https://github.com/Nora_Haru/al-quran-mobile.git))
 cd al-quran-mobile
 
 ```
@@ -137,7 +136,3 @@ Contributions are always welcome!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull 
-
-```
-
-```
